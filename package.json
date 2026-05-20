@@ -1,0 +1,17 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "个人展示网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
